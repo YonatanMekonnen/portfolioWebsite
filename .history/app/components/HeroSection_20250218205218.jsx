@@ -14,11 +14,11 @@ const HeroSection = () => {
                 </p>
             </div>
             <div className="col-span-5">
-                <div className="rounded-full bg-[#362d2d] w-[250px] h-[250px] ">
+                <div className="rounded-full bg-[#362d2d] w-500 h-400 relative ">
                     <Image 
                         src="/image/photo.png"
                         alt= "Hero Image"
-                        className="absolute transform -translate-x-1/2 -translate-y=1/2 top-1/2 left-1/2"
+                        className="absolute transform -translate-x-1/2 -translate-"
                         width={300}
                         height={300}
                     />

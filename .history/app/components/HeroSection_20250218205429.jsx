@@ -14,7 +14,7 @@ const HeroSection = () => {
                 </p>
             </div>
             <div className="col-span-5">
-                <div className="rounded-full bg-[#362d2d] w-[250px] h-[250px] ">
+                <div className="rounded-full bg-[#362d2d] w-[500px] h-[400px] relative ">
                     <Image 
                         src="/image/photo.png"
                         alt= "Hero Image"
